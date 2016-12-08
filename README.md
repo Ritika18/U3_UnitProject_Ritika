@@ -4,10 +4,8 @@
 
 <h2>Description</h2>
 
-<p>My final project is using makey makey and Box2D. This game is basically two characters, one on each side of the platform, who are
-fighting against each other trying to reach an object placed at the other end of the platform. The object of the game is to not allow
-the other player to reach their object, before you can reach your own object. This is going to be using makey makey while standing. So
-in order to move your character you have to physically move.</p>
+<p>My final project is using makey makey and Box2D. This game is basically two characters both starting right next to each other. They are
+fighting against each other and the object of the game is to get the other player to fall off of the screen. This is going to be using makey makey while standing. Both people are facing each other. There are two platforms on the ground, one right next to your left foot, and the other is behind you. The one next to your foot is used to jump up. The one behind you is to move backwards. The last platform is on the oponents hand. That is used to move forwards. </p>
 
 <h2>Timeline</h2>
 
@@ -35,10 +33,14 @@ in order to move your character you have to physically move.</p>
   Milestone #3: December 5th, 2015 (For C block) </h3>
   <strong>Goal:</strong> You should have iterated and improved on your prototype by the end of this milestone.
   <ul>
-    <li>Task</li>
-    <li>Task</li>
-    <li>Task</li>
-    <li>Task</li>
-    <li>Task</li>
+    <li>Final project is due</li>
+    <li>Makey make is completely ready</li>
   </ul>
 </div>
+
+<h2>Inspiration</h2>
+
+<p>My inspirationation for this game came from a time when I was playing a game similar to this game. It worked similarily to this game, and as soon as I played it I wanted to be able to make something like that. </p>
+
+<h2>Screenshot<h2>
+<img src = "http://imgur.com/a/LeXdt">
