@@ -1,4 +1,4 @@
-<h1>(Name of Game)</h1>
+<h1>War Time</h1>
 
 <h1>By: Ritika Kacholia</h1>
 
